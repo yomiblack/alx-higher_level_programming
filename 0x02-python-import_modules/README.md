@@ -149,3 +149,13 @@ You are not allowed to use print or eval or open or import sys in your file 101-
             106 RETURN_VALUE
             107 LOAD_CONST               0 (None)
             110 RETURN_VALUE
+
+9. Write a program that prints the alphabet in uppercase, followed by a new line.
+
+Your program should be maximum 3 lines long
+You are not allowed to use:
+any loops
+any conditional statements
+str.join()
+any string literal
+any system calls
